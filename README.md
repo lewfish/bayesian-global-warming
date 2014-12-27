@@ -3,14 +3,14 @@ bayesian-global-warming
 
 This project is a Bayesian analysis of the rate of global warming in regions around
  the world, and was completed for a class on Bayesian Statistics. 
-It contains three JAGS linear regression models, an R script that reads
+It contains 1) three JAGS linear regression models, 2) an R script that reads
 <a href="http://data.giss.nasa.gov/gistemp/">GISTEMP</a> data, runs
- MCMC on the models, and plots graphs, and a paper describing the results.
+ MCMC on the models, and plots graphs, and 3) a paper describing the results.
 
 Install
 ========
 
-First, install R, JAGS, and Latex.
+Install R, JAGS, and Latex.
 
 At the R prompt invoke
 ```

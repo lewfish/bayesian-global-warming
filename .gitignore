@@ -1,0 +1,10 @@
+*~
+*.aux
+*.bbl
+*.blg
+*.log
+.Rhistory
+pres
+#*#
+data/*
+code/ggmapTemp.png

@@ -24,7 +24,7 @@ Run
 
 In <project_root>/code, run the R script by invoking
 ```
-rScript climate.R
+Rscript climate.R
 ```
 which will print the output of different models, and save figures
  to <project_root>/paper/figs/

@@ -17,12 +17,12 @@ At the R prompt invoke
 install.packages("ncdf", "R2jags", "ggplot2", "ggmap")
 ```
 
-Download GISTEMP <a href="http://data.giss.nasa.gov/pub/gistemp/gistemp1200_ERSST.nc.gz">data</a> and put it in <project_root>/data/ subdirectory (which you need to create).
+Download GISTEMP <a href="http://data.giss.nasa.gov/pub/gistemp/gistemp1200_ERSST.nc.gz">data</a> and put it in data/ subdirectory (which you need to create).
 
 Run
 =====
 
-In <project_root>/code, run the R script by invoking
+In code/, run the R script by invoking
 ```
 Rscript climate.R
 ```
